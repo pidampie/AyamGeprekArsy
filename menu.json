@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Ayam Geprek Sambal Hijau",
+        "price": 18000,
+        "description": "",
+        "image": "ayam sambal hijau.png"
+    },
+    {
+        "name": "Ayam Geprek Keju",
+        "price": 20000,
+        "description": "",
+        "image": "ayam sambal keju.png"
+    },
+    {
+        "name": "Ayam Geprek Sambal Matah",
+        "price": 18000,
+        "description": "",
+        "image": "ayam sambal matah.png"
+    },
+    {
+        "name": "Ayam Geprek Sambal Merah",
+        "price": 18000,
+        "description": "",
+        "image": "ayam sambal merah.png"
+    },
+    {
+        "name": "Ayam Geprek Sambal Petai",
+        "price": 18000,
+        "description": "",
+        "image": "ayam sambal petai.png"
+    },
+    {
+        "name": "Paket Hemat",
+        "price": 35000,
+        "description": "",
+        "image": "paket hemat.png"
+    },
+    {
+        "name": "Es Jeruk",
+        "price": 8000,
+        "description": "",
+        "image": "es jeruk.png"
+    },
+    {
+        "name": "Es Teh",
+        "price": 5000,
+        "description": "",
+        "image": "es teh.png"
+    },
+    {
+        "name": "Soda Ice",
+        "price": 5000,
+        "description": "",
+        "image": "sode ice.png"
+    },
+    {
+        "name": "Promo Hemat",
+        "price": "30.000",
+        "description": "3 ayam geprek dan 1 es teh",
+        "image": "menu_7.jpg"
+    },
+    {
+        "name": "Promo Hemat",
+        "price": "30000",
+        "description": "tiga porsi ayam geprek",
+        "image": "menu_7.jpg"
+    }
+]
